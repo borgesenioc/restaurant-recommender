@@ -23,14 +23,14 @@ A simple TypeScript application that filters restaurants based on price, deliver
    
 
 ## Example Restaurant Data
-{
+    {
     name: "Pizza Place",
     priceBracket: "2",
     deliveryTimeMinutes: 45,
     distance: 5,
     openHour: 10,
     closeHour: 22
-}
+    }
 
 
 ## Requirements
