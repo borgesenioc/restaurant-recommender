@@ -20,23 +20,25 @@ A simple TypeScript application that filters restaurants based on price, deliver
    - `"cd restaurant-recommender"`
 3. Run the app:
    - `"npm start"`
+   
 
 ## Example Restaurant Data
-```typescript
-{
-  name: "Pizza Place",
-  priceBracket: "2",
-  deliveryTimeMinutes: 45,
-  distance: 5,
-  openHour: 10,
-  closeHour: 22
-}
+    {
+        name: "Pizza Place",
+        priceBracket: "2",
+        deliveryTimeMinutes: 45,
+        distance: 5,
+        openHour: 10,
+        closeHour: 22
 
-Requirements
+    }
+
+
+## Requirements
 	•	Node.js installed.
 	•	A restaurants dataset to import.
 
-License
+## License
 
 MIT License
 This version ensures all bash commands are in string format, as requested.
